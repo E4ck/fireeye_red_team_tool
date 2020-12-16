@@ -18,3 +18,7 @@ Please check back to this GitHub for updates to these rules.
 FireEye customers can refer to the FireEye Community (community.fireeye.com) for information on how FireEye products detect these threats.
  
 The entire risk as to quality and performance of these rules is with the users.
+
+[img1](./img_20201216105812.jpg)
+
+[img2](./img_20201216105829.jpg)
